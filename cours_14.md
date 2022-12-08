@@ -3,10 +3,10 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Un champ de bataille dans un univers réaliste avec une invasion infernale.
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Après une invasion par les démons. C'est 
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
