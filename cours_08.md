@@ -2,7 +2,7 @@
 ## Retour sur la sortie
 
 ### Oeuvre préférée
-Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+Goliath car on explorait l'état de la schizophrénie, en effet la facon de le présenter.   
 
 
 ### Oeuvre la moins appréciée
