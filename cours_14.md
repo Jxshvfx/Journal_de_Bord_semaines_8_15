@@ -6,16 +6,16 @@ Durée: 8 à 10 minutes
 Un champ de bataille dans un univers réaliste avec une invasion infernale.
 
 ### Description du projet 
-Après une invasion par les démons. C'est 
+Après une invasion par les démons, des mercenaires décident de passer à l'action et d'anéantir ces démons. C'est un jeu mutlijoueur avec des modes comme "Battle Royale", "CTF", "Team Deathmatch". C'est un mélange de FPS et platformer.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+Notee scénarimage représente la première cinématique du jeu. On voit la première invasion des démons, ensuite on voit notre personnage principal se préparer pour cette attaque. Il est dans un avion de cargo, saute de celui-ci et atterri pour montrer la ville détruite. Il est prêt pour la guerre.
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+Style un peu cartoon comme celui d'Overwatch. Ensuite, un battle royale avec des maps de style réaliste comme Call of Duty.
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Des ordinateurs et des consoles (Xbox, Playstation, Nintendo Switch)
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Rigging des personnages, Animation 3d, Effets Visuels, Programmation, Effets sonores.
